@@ -12,13 +12,14 @@ Current 2nd Year NTU Computer Engineering Student. I'm interested in Embedded Sy
 
 ### SC1015 Data Science & AI Project
 
-<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%201.png" width="256" >
+<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%20LOGO.png" width="512" >
 
 Group project for SC1015 Introduction to Data Science & AI.
 Our team learned to process, extract and clean movie data from Kaggle™ & tested out models to see which could best predict the IMDb scores of movies.
 
-<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%201.png" width="256" > <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%202.png" width="256" >
-<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%203.png" width="256" > <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015.png" width="256" > 
+
+<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%201.png" width="384" > <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%202.png" width="384" >
+<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%203.png" width="384" > <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015.png" width="384" > 
 
 #### Models Used
 * Numeric Linear Regression
@@ -37,7 +38,7 @@ Our team learned to process, extract and clean movie data from Kaggle™ & teste
 
 ### Overworked / Thrift It
 
-<img src="https://github.com/rlim066/RaymondL/blob/main/Thrift%20It%20Logo.png" width="384" >
+<img src="https://github.com/rlim066/RaymondL/blob/main/Thrift%20It%20Logo.png" width="512" >
 
 Group project for SC2006 Software Engineering 
 ThriftIt aims to provide an online platform for thrift shops in Singapore to sell to buyers and provide other user-centric features
@@ -49,8 +50,9 @@ Our Key Features include:
 * Use of OneMap API to show location of shops & navigate there
 * & more!
 
-<img src="https://github.com/rlim066/RaymondL/blob/main/Thrift%20It%201%20.png" width="256" > <img src="https://github.com/rlim066/RaymondL/blob/main/Thrift%20It%202.png" width="256" >
-<img src="https://github.com/rlim066/RaymondL/blob/main/Thrift%20It%203.png" width="256" > <img src="https://github.com/rlim066/RaymondL/blob/main/Thrift%20It%204.png" width="256" > 
+<img src="https://github.com/rlim066/RaymondL/blob/main/Thrift%20It%201%20.png" width="384" > <img src="https://github.com/rlim066/RaymondL/blob/main/Thrift%20It%202.png" width="384" >
+
+<img src="https://github.com/rlim066/RaymondL/blob/main/Thrift%20It%203.png" width="384" > <img src="https://github.com/rlim066/RaymondL/blob/main/Thrift%20It%204.png" width="384" > 
 
 
 - 🔭 I’m currently working on this page. 
