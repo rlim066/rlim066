@@ -11,6 +11,13 @@ Current 2nd Year NTU Computer Engineering Student. I'm interested in Embedded Sy
 ## Past Projects
 
 ### SC1015 Data Science & AI Project
+
+Project Goals             |  Data Cleaning             | Models           |  Models
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
+![](https://github.com/rlim066/RaymondL/blob/main/SC1015%201.png)  |  ![](https://github.com/rlim066/RaymondL/blob/main/SC1015%202.png) |  ![](https://github.com/rlim066/RaymondL/blob/main/SC1015%203.png)|  ![](https://github.com/rlim066/RaymondL/blob/main/SC1015.png)
+
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
 <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%201.png" width="256" > <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%202.png" width="256" >
 <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%203.png" width="256" > <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%204.png" width="256" >
 <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015.png" width="256" > 
