@@ -16,11 +16,12 @@ Project Goals             |  Data Cleaning             | Models           |  Mod
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 ![](https://github.com/rlim066/RaymondL/blob/main/SC1015%201.png)  |  ![](https://github.com/rlim066/RaymondL/blob/main/SC1015%202.png) |  ![](https://github.com/rlim066/RaymondL/blob/main/SC1015%203.png)|  ![](https://github.com/rlim066/RaymondL/blob/main/SC1015.png)
 
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
-<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%201.png" width="256" > <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%202.png" width="256" >
-<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%203.png" width="256" > <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%204.png" width="256" >
-<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015.png" width="256" > 
+
+
+<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%201.png" width="200" > <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%202.png" width="200" >
+<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%203.png" width="200" > <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015.png" width="200" > 
+<img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%204.png" width="200" >
+
 Group project for SC1015. Our team processed and extracted data from Kaggle™ to test out models that can best predict the IMDb scores of movies.
 
 #### Models Used
