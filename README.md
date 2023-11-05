@@ -11,7 +11,6 @@ Current 2nd Year NTU Computer Engineering Student. I'm interested in Embedded Sy
 ## Past Projects
 
 ### SC1015 Data Science & AI Project
-
 <img src="https://github.com/rlim066/RaymondL/blob/main/SC1015%20LOGO.png" width="512" >
 
 Group project for SC1015 Introduction to Data Science & AI.
