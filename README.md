@@ -1,6 +1,6 @@
 # Raymond Lim
 
-Current 2nd Year NTU Computer Engineering Student. I'm interested in Embedded Systems and Backend Development!
+3rd Year NTU Computer Engineering Student!
 
 ## Skills & Experience 
 * 🖥 C / C++
