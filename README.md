@@ -2,12 +2,18 @@
 
 Computer Engineering (B.Eng.), Nanyang Technological University — Singapore
 
-Interested in embedded systems, machine learning, and full-stack development.
+Interested in AI applications, cloud compute and computer hardware/architecture & low level systems.
 
 ## Skills
 
 - **Languages:** C / C++, Python, Java, JavaScript / HTML / CSS
-- **Areas:** Embedded systems, AI/ML integration, REST APIs, data science
+- **Areas:** AI/ML integration, Embedded Systems, REST APIs, Computer Architecture
+
+### Notable Coursework:
+- ##### SC4079 FINAL YEAR THESIS - SYSTEM DESIGN FOR EMBEDDED CONVERSATIONAL AI BOARDS
+- ##### SC4052 CLOUD COMPUTING
+- ##### SC3103 EMBEDDED PROGRAMMING
+- ##### SC3050 ADVANCED COMPUTER ARCHITECTURE
 
 ## Projects
 
@@ -20,21 +26,22 @@ Interested in embedded systems, machine learning, and full-stack development.
 - Delivered a reusable design template and cost-benefit analysis for future embedded AI deployments.
 
 <p>
-  <img src="images/fyp-system-pipeline.png" alt="Speech-to-speech conversational AI pipeline" width="48%" />
-  <img src="images/fyp-coral-mini-board.png" alt="Google Coral Mini board" width="32%" />
+  <img src="fyp-system-pipeline.png" alt="Speech-to-speech conversational AI pipeline" width="48%" />
+  <img src="fyp-coral-mini-board.png" alt="Google Coral Mini board" width="32%" />
 </p>
 
 ### NTU Multi-Disciplinary Project (MDP) — Autonomous Exploration Robot
-*NTU · Grade: A- · Top 8 of 54 teams (CS cohort)*
+
+Project Goal: Build a robotic system that autonomously explores/traverses a known area, detecting images displayed on the arena. The robot should perform obstacle avoidance using visual markers “bulls eye”. Transmit and receive control signals from mobile device. Simulate physical robot and algorithms in software
+Result: *NTU · Grade: A- · Top 8 of 54 teams in CS cohort)*
 
 - Built the robot's low-level control on the PID/hardware team, programming an STM32F407VET6 microcontroller to drive motor drivers and read gyroscope sensors for an autonomous arena-exploration robot (image recognition and obstacle avoidance).
-- Implemented PID motion control for straight-line travel and PID-controlled turning with gyroscope feedback for accurate, repeatable navigation.
+- Implemented PID motion control for straight-line travel and PID-controlled turning with gyroscope feedback for accurate, repeatable navigation within a maze.
 - Handled UART communication between the STM32 and the rest of the system.
-- Result: A-, finishing in the top 8 of 54 teams in the NTU CS cohort.
 
 <p>
-  <img src="images/mdp-robot-car.png" alt="MDP autonomous robot car" width="40%" />
-  <img src="images/mdp-robot-topdown.png" alt="MDP robot chassis, top-down view" width="40%" />
+  <img src="Robot Car Maze.kpg" alt="Robot Car Maze" width="40%" />
+  <img src="mdp-robot-topdown.png" alt="MDP robot chassis, top-down view" width="40%" />
 </p>
 
 ### Xiangji AI (2024)
