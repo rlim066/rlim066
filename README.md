@@ -7,7 +7,7 @@ Interested in AI applications, cloud compute and computer hardware/architecture 
 ## Skills
 
 - **Languages:** C / C++, Python, Java, JavaScript / HTML / CSS
-- **Areas:** AI/ML integration, Embedded Systems, REST APIs, Computer Architecture
+- **Areas:** AI/ML integration, Cloud Deployment of AI, Embedded Systems, REST APIs, Computer Architecture
 
 ### Notable Coursework:
 - ##### SC4079 FINAL YEAR THESIS - SYSTEM DESIGN FOR EMBEDDED CONVERSATIONAL AI BOARDS
@@ -26,8 +26,10 @@ Interested in AI applications, cloud compute and computer hardware/architecture 
 - Delivered a reusable design template and cost-benefit analysis for future embedded AI deployments.
 
 <p>
-  <img src="fyp-system-pipeline.png" alt="Speech-to-speech conversational AI pipeline" width="48%" />
-  <img src="fyp-coral-mini-board.png" alt="Google Coral Mini board" width="32%" />
+  <img src="fyp-system-pipeline.png" alt="Speech-to-speech conversational AI pipeline" width="60%" />
+</p>
+<p>
+  <img src="fyp-coral-mini-board.png" alt="Google Coral Mini board" width="40%" />
 </p>
 
 ### NTU Multi-Disciplinary Project (MDP) — Autonomous Exploration Robot
@@ -40,8 +42,8 @@ Result: *NTU · Grade: A- · Top 8 of 54 teams in CS cohort)*
 - Handled UART communication between the STM32 and the rest of the system.
 
 <p>
-  <img src="Robot Car Maze.kpg" alt="Robot Car Maze" width="40%" />
   <img src="mdp-robot-topdown.png" alt="MDP robot chassis, top-down view" width="40%" />
+  <img src="Robot Car Maze.jpg" alt="Robot Car Maze" width="40%" />
 </p>
 
 ### Xiangji AI (2024)
