@@ -1,6 +1,6 @@
 # Raymond Lim
 
-Computer Engineering (B.Eng.), Nanyang Technological University — Singapore
+4th Year Computer Engineering (B.Eng.), Nanyang Technological University — Singapore
 
 Interested in AI applications, cloud compute and computer hardware/architecture & low level systems.
 
